@@ -67,17 +67,17 @@ p{
         margin: auto; 
         margin: 10px;
         border-radius: 10px;
+    }
         
         .sedan-box{
             background-color: hsl(31, 77%, 52%);
             border-bottom-left-radius:0px;
             border-top-left-radius: 0px;
+        }
             .luxury-box{
                 background: hsl(179, 100%, 13%);
                 border-top-right-radius: 0px;
                 border-bottom-right-radius: 0px;     
+            }
 }
     
-@media screen {
-    
-}
